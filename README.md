@@ -1,13 +1,12 @@
-# Network_Lab_Exercises
-# Network_Lab_Exercises
+# 🌐 Network_Lab_Exercises
 
-## Descrição
+## Descrição 📋
 
-Este repositório contém uma série de casos de laboratório destinados a ajudar jovens aprendizes e estagiários a desenvolver habilidades em configuração e resolução de problemas de rede. Os exercícios focam em conceitos como configuração de IP estático, uso de ferramentas de diagnóstico como `ping`, e simulação de erros de rede usando ICMP.
+Este repositório contém uma série de casos de laboratório destinados a  desenvolver minhas habilidades em configuração e resolução de problemas de rede. Os exercícios focam em conceitos como configuração de IP estático, uso de ferramentas de diagnóstico como `ping`, e simulação de erros de rede usando ICMP.
 
-## Casos de Laboratório
+## Casos de Laboratório 💻🔧
 
-### 1. Configuração Básica de Rede
+### 1. Configuração Básica de Rede 🛠️
 
 **Objetivo:** Configurar uma rede básica e usar `ping` para verificar a conectividade.
 
@@ -15,7 +14,7 @@ Este repositório contém uma série de casos de laboratório destinados a ajuda
 
 **Ferramentas:** VMs, comandos `ipconfig` e `ping` no Windows, `ifconfig` e `ping` no Linux.
 
-### 2. Diagnóstico de Problemas de Conectividade
+### 2. Diagnóstico de Problemas de Conectividade 🕵️‍♂️
 
 **Objetivo:** Identificar e resolver problemas de conectividade em uma rede.
 
@@ -23,7 +22,7 @@ Este repositório contém uma série de casos de laboratório destinados a ajuda
 
 **Ferramentas:** VMs, comandos `ping`, `tracert` (Windows) e `traceroute` (Linux).
 
-### 3. Uso de `ping` com Várias Flags
+### 3. Uso de `ping` com Várias Flags 🎯
 
 **Objetivo:** Usar diferentes opções de linha de comando com `ping` para diagnóstico avançado.
 
@@ -31,7 +30,7 @@ Este repositório contém uma série de casos de laboratório destinados a ajuda
 
 **Ferramentas:** Sistemas Windows e Linux, comando `ping`.
 
-### 4. Simulação de Erros de Rede com ICMP
+### 4. Simulação de Erros de Rede com ICMP 🔍
 
 **Objetivo:** Simular e analisar diferentes tipos de erros de rede usando ICMP.
 
@@ -39,7 +38,7 @@ Este repositório contém uma série de casos de laboratório destinados a ajuda
 
 **Ferramentas:** Scapy, Wireshark.
 
-### 5. Configuração de Firewall e Teste de ICMP
+### 5. Configuração de Firewall e Teste de ICMP 🔒
 
 **Objetivo:** Configurar regras de firewall para permitir ou bloquear tráfego ICMP.
 
@@ -47,10 +46,10 @@ Este repositório contém uma série de casos de laboratório destinados a ajuda
 
 **Ferramentas:** Ferramentas de firewall do sistema operacional, comando `ping`.
 
-## Contribuição
+## Contribuição 🤝
 
 Sinta-se à vontade para abrir issues ou pull requests se encontrar algum problema ou quiser melhorar os laboratórios. Feedback é bem-vindo!
 
-## Licença
+## Licença 📜
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
