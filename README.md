@@ -16,6 +16,10 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 
 ---
 
+***
+
+___
+
 ### 2. Diagnóstico de Problemas de Conectividade 🕵️‍♂️
 
 **Objetivo:** Identificar e resolver problemas de conectividade em uma rede.
