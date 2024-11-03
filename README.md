@@ -16,9 +16,6 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 
 ---
 
-***
-
-___
 
 ### 2. Diagnóstico de Problemas de Conectividade 🕵️‍♂️
 
@@ -28,6 +25,8 @@ ___
 
 **Ferramentas:** VMs, comandos `ping`, `tracert` (Windows) e `traceroute` (Linux).
 
+---
+
 ### 3. Uso de `ping` com Várias Flags 🎯
 
 **Objetivo:** Usar diferentes opções de linha de comando com `ping` para diagnóstico avançado.
@@ -35,6 +34,8 @@ ___
 **Atividade:** Use `ping -t` no Windows para enviar solicitações de eco contínuas e `ping -c 5` no Linux para limitar a 5 pacotes. Analise os resultados.
 
 **Ferramentas:** Sistemas Windows e Linux, comando `ping`.
+
+---
 
 ### 4. Simulação de Erros de Rede com ICMP 🔍
 
@@ -44,6 +45,8 @@ ___
 
 **Ferramentas:** Scapy, Wireshark.
 
+---
+
 ### 5. Configuração de Firewall e Teste de ICMP 🔒
 
 **Objetivo:** Configurar regras de firewall para permitir ou bloquear tráfego ICMP.
@@ -52,9 +55,7 @@ ___
 
 **Ferramentas:** Ferramentas de firewall do sistema operacional, comando `ping`.
 
-## Contribuição 🤝
-
-Sinta-se à vontade para abrir issues ou pull requests se encontrar algum problema ou quiser melhorar os laboratórios. Feedback é bem-vindo!
+---
 
 ## Licença 📜
 
