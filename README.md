@@ -13,6 +13,7 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 **Atividade:** Configure duas máquinas virtuais (VMs) no mesmo segmento de rede com endereços IP estáticos. Use `ping` para verificar se ambas as VMs podem se comunicar entre si.
 
 **Ferramentas:** VMs, comandos `ipconfig` e `ping` no Windows, `ifconfig` e `ping` no Linux.
+
 ---
 
 ### 2. Diagnóstico de Problemas de Conectividade 🕵️‍♂️
