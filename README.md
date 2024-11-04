@@ -63,7 +63,8 @@ a maquina cliente somente tem acesso a rede interna.
 
 `sudo route add -net 192.168.1.0/24 gw 192.168.1.20`
 
-<img src="https://github.com/user-attachments/assets/ce4c82be-8b6a-469b-8fcc-5ce7c9758465" width="600">
+![image](https://github.com/user-attachments/assets/e21608ed-9d15-445a-84b7-6eca5d4c016e)
+
 
 
 ---
