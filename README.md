@@ -52,7 +52,7 @@ a maquina cliente somente tem acesso a rede interna.
 ping -t 192.168.1.1
 Este comando permite que você envie pacotes de solicitação de eco ICMP continuamente até que você o interrompa manualmente. Isso é útil para monitorar a conectividade com um destino ao longo do tempo,você pode interromper o comando pressionando Ctrl + C.
 
-### `ping -c 5` no Linux
+ ```ping -c 5  no Linux```
 
 Este comando limita o número de pacotes de solicitação de eco ICMP enviados a apenas 5.
  
