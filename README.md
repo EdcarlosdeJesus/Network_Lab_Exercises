@@ -55,9 +55,8 @@ Este comando permite que você envie pacotes de solicitação de eco ICMP contin
 ### `ping -c 5` no Linux
 
 Este comando limita o número de pacotes de solicitação de eco ICMP enviados a apenas 5.
-
-```sh```
-ping -c 5 192.168.1.1
+ 
+```ping -c 5 192.168.1.1```
 
 Este comando limita o número de pacotes de solicitação de eco ICMP enviados a apenas 5. Isso é útil quando você quer uma verificação rápida sem inundar a rede com pacotes.
 
