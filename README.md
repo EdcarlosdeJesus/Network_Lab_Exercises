@@ -14,6 +14,9 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 
 **Ferramentas:** VMs, comandos `ipconfig` e `ping` no Windows, `ifconfig` e `ping` no Linux.
 
+![image](https://github.com/user-attachments/assets/7cbbf5e5-d68c-4f0d-b349-93733b3e6b49)
+
+
 ---
 
 
