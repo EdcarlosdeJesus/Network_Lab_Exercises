@@ -48,8 +48,8 @@ a maquina cliente somente tem acesso a rede interna.
 
 ![image](https://github.com/user-attachments/assets/324fe164-a2e9-449d-b7c0-9b37de99d5a4)
 
-- ```ping -t no Windows```
- ```ping -t 192.168.1.1```
+```ping -t no Windows```
+```ping -t 192.168.1.1```
 Este comando permite que você envie pacotes de solicitação de eco ICMP continuamente até que você o interrompa manualmente. Isso é útil para monitorar a conectividade com um destino ao longo do tempo,você pode interromper o comando pressionando Ctrl + C.
 
 
