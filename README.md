@@ -29,7 +29,8 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 - Máquina cliente foi apenas usado uma rede interna.
 
 
-![image](https://github.com/user-attachments/assets/7cbbf5e5-d68c-4f0d-b349-93733b3e6b49)
+![image](https://github.com/user-attachments/assets/1ba8afc2-23fc-4190-8170-002515e8c72d)
+
 #Podemos ver o resultado final desse mini projeto, conectando duas maquinas virtuais uma como servidor e outra como cliente aonde apenas o servido tem acesso a internet
 a maquina cliente somente tem acesso a rede interna.
 
