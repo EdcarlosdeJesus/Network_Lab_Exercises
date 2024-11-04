@@ -25,6 +25,7 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 - Adaptador 2:Rede interna , para pode conectar com outra VM.
 
 <img src="https://github.com/user-attachments/assets/9bb08950-38ec-4425-9a9b-8606511bca9d" width="400">
+
 - Máquina cliente foi apenas usado uma rede interna.
 
 
