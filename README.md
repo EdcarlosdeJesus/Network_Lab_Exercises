@@ -15,6 +15,7 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 **Ferramentas:** VMs, comandos `ipconfig` e `ping` no Windows, `ifconfig` e `ping` no Linux.
 
 #Na máquina Servidor foi feito o uso da seguinte configurações.
+
 <img src="https://github.com/user-attachments/assets/dec325ab-47b4-4afb-8888-3e632cacc104" width="400">
 
 - Adaptador 1: Placa em modo Bridge, conecta diretamente à rede local, recebendo seu próprio IP e funcionando como um dispositivo independente na rede.
