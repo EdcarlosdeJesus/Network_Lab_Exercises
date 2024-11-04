@@ -13,6 +13,13 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 **Atividade:** Configure duas máquinas virtuais (VMs) no mesmo segmento de rede com endereços IP estáticos. Use `ping` para verificar se ambas as VMs podem se comunicar entre si.
 
 **Ferramentas:** VMs, comandos `ipconfig` e `ping` no Windows, `ifconfig` e `ping` no Linux.
+- Na máquina Servidor foi feito o uso da seguinte configuração.
+  ![image](https://github.com/user-attachments/assets/dec325ab-47b4-4afb-8888-3e632cacc104)
+- Adaptador 1: Placa em modo Bridge, conecta diretamente à rede local, recebendo seu próprio IP e funcionando como um dispositivo independente na rede.
+  ![image](https://github.com/user-attachments/assets/bdbd503d-75ec-4e3a-81c4-f70439e70d0f)
+
+- Adaptador 2:Rede interna , para pode conectar com outra VM.
+
 
 ![image](https://github.com/user-attachments/assets/7cbbf5e5-d68c-4f0d-b349-93733b3e6b49)
 #Podemos ver o resultado final desse mini projeto, conectando duas maquinas virtuais uma como servidor e outra como cliente aonde apenas o servido tem acesso a internet
