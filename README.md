@@ -15,6 +15,8 @@ Este repositório contém uma série de casos de laboratório destinados a  dese
 **Ferramentas:** VMs, comandos `ipconfig` e `ping` no Windows, `ifconfig` e `ping` no Linux.
 
 ![image](https://github.com/user-attachments/assets/7cbbf5e5-d68c-4f0d-b349-93733b3e6b49)
+#Podemos ver o resultado final desse mini projeto, conectando duas maquinas virtuais uma como servidor e outra como cliente aonde apenas o servido tem acesso a internet
+a maquina cliente somente tem acesso a rede interna.
 
 
 ---
