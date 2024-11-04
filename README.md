@@ -46,10 +46,22 @@ a maquina cliente somente tem acesso a rede interna.
 
 **Ferramentas:** VMs, comandos `ping`, `tracert` (Windows) e `traceroute` (Linux).
 
+-Depois de configura 3 VMs na mesma rede e verificar a conectividade delas, fiz alteração de uma dela que foi a máquina linux alterando assim sua rota. 
 
+![image](https://github.com/user-attachments/assets/47c1ee95-1cbe-449c-b14a-8452c26f1cad)
 
+-Comando para linux para mudança de rota.
+`sudo route add -net 192.168.1.0/24 gw 192.168.100`
 
+-Usando `tracert` da minha máquina servido windows para ver a rota do meu Linux e constando que existe um erro na rota como esperado.
+![image](https://github.com/user-attachments/assets/40b8975e-406d-4aa9-93fe-22e4caa43c11)
 
+-Aqui deletamos a rota errada e ajustamos a correta.
+`sudo route del -net 192.168.1.0/24 gw 192.168.1.100`
+
+-logo após foi reajustado a rota correta e usei o `tracert` para verificar a rota do meu servido para meu cliente Linux e usei o `ping` para confirma o projeto final.
+`sudo route add -net 192.168.1.0/24 gw 192.168.1.20`
+![image](https://github.com/user-attachments/assets/ce4c82be-8b6a-469b-8fcc-5ce7c9758465)
 
 ---
 
